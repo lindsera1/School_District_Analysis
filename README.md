@@ -25,7 +25,7 @@ With 9th Graders
 Without 9th Graders
 ![district_summary_minus9th](https://github.com/lindsera1/School_District_Analysis/blob/master/Resources/updated_district_without_ninth.png)
 
-Since the district analysis covered an enormous base of students, if there was academic dishonest, removing ninth grade scores would have very
+Since the district analysis covered an enormous base of students, if there was academic dishonesty, removing ninth grade scores would have very
 little impact on the outcome of the district analysis. However, there was hardly any deviation between the two. No red flags to be raised here!
 
 ### School Summary With and Without 9th graders
