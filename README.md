@@ -50,11 +50,11 @@ with a smaller population tend to perform at the top of the district, and the de
 
 -Scores By Grade: 
 
-  There was a consitent 84 0r 85 percent passing rate for all grade levels across Thomas High School.
+  There was a consitent 84 or 85 percent passing rate for all grade levels across Thomas High School.
 
 -Scores By Spending
 
-  One statistic that was interesting, was that schools which received less overall spending, actuall performed better than those
+  One statistic that was interesting, was that schools which received less overall spending, actually performed better than those
   that received more funding. One can only ponder the reasons why; whether it be that small population schools or charter schools
   just recieve less funding, or the district directs less resources to those schools that are performing well, I don't think we can say that 
   giving a school less money will make the school perform better.
@@ -74,6 +74,6 @@ with a smaller population tend to perform at the top of the district, and the de
   
  ## Summary
  
-  Based on the evidence, we cannot conclude outright that any academic dishonesty occured; there's no siginicant difference in the presence
+  Based on the evidence, we cannot conclude outright that any academic dishonesty occured; there's no significant difference in the presence
   or abscence of the ninth graders in the data set; it's vaguely affected. This is good news for the district!
 
