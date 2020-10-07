@@ -15,7 +15,7 @@ test scores, to see if there was much difference to support suspicions of academ
 replaced the ninth grade scores with NaN in order to remove them from the analysis.
 Let's take a look at what we found...
 
-##Results
+## Results
 
 ### District Summary With and Without 9th graders
 
@@ -23,7 +23,7 @@ With 9th Graders
 ![district_summary](https://github.com/lindsera1/School_District_Analysis/blob/master/Resources/district_summary.png)
 
 Without 9th Graders
-![district_summary_minus9th](https://github.com/lindsera1/School_District_Analysis/blob/master/Resources/district_summary_minus9th.png)
+![district_summary_minus9th](https://github.com/lindsera1/School_District_Analysis/blob/master/Resources/updated_district_without_ninth.png)
 
 Since the district analysis covered an enormous base of students, if there was academic dishonest, removing ninth grade scores would have very
 little impact on the outcome of the district analysis. However, there was hardly any deviation between the two. No red flags to be raised here!
